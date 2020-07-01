@@ -3,7 +3,7 @@ const path = require('path');
 const open = require('open');
 
 //set PORT
-const PORT = 4000;
+const PORT = 7000;
 // Create an Instance of express and set to app
 const app = express();
 
